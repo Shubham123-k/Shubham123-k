@@ -1,77 +1,78 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ================= ULTRA BLACK HEADER ================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:1f4f80,100:113f67&height=200&section=header&text=Shubham%20K&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=SHUBHAM&fontSize=55&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
-<!-- ======================= TYPING EFFECT ======================= -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00d1ff&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B;React.js+%7C+Next.js+%7C+Node.js;MongoDB+%7C+MySQL;Consistency+%3E+Motivation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B;React+%7C+Next+%7C+Node;MongoDB+%7C+MySQL;Build+With+Clarity+Scale+With+Discipline"/>
 </p>
 
 ---
 
-# 👋 About Me
+# 🧠 About Me
 
-Full Stack Developer focused on building scalable and performance-driven applications.
+Full Stack Developer driven by performance, scalability, and precision.
 
-I believe in clean architecture, strong fundamentals, and continuous improvement.
+I focus on mastering fundamentals, writing clean architecture, and continuously improving my problem-solving depth.
 
-⚡ Discipline > Motivation  
-🚀 Growth Mindset  
-🎯 Long-Term Mastery  
+> “Discipline builds systems. Systems build success.”
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-bind-53305432b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/u/ShubhamK69/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/shubhamk1z07">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks"/>
   </a>
   <a href="https://www.hackerrank.com/profile/shubhamkbind69">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# ⚙️ Tech Arsenal
 
 ## 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
 
 ## 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
 ## ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-## 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+## 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+
+## 🛠 Tools I Use
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -80,30 +81,38 @@ I believe in clean architecture, strong fundamentals, and continuous improvement
 
 ---
 
-# 🔥 Contribution Activity
+# 📈 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham123-k&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham123-k&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🧠 Competitive Programming
+# 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ShubhamK69?theme=dark&font=Fira+Code&ext=contest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham123-k&theme=onestar&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-# 👁️ Profile Visitors
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham123-k&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/Shubham123-k/Shubham123-k/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 👁 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham123-k&label=Profile%20Views&color=000000&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:113f67,50:1f4f80,100:0a0f2c&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=120&section=footer"/>
 </p>
