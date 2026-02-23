@@ -1,7 +1,7 @@
 <!-- ================= ULTRA BLACK HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=SHUBHAM&fontSize=55&fontColor=00F7FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=SHUBHAM%20K&fontSize=55&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
