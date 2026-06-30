@@ -70,55 +70,254 @@ Full Stack Developer • Software Engineer • Problem Solver
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Arsenal
+
+<div align="center">
+
+> *Technologies I use to transform ideas into scalable, modern, and user-centric applications.*
+
+</div>
+
+---
 
 ## 💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br><b>Java</b>
+</td>
 
-**Icons Used:** Java • Python • C • C++ • JavaScript
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><b>C++</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/><br><b>TypeScript</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🎨 Frontend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+<table>
+<tr>
 
-**Icons Used:** HTML5 • CSS3 • React • Next.js • Tailwind CSS
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br><b>HTML5</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br><b>CSS3</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>React</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br><b>Next.js</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br><b>Tailwind CSS</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><b>Bootstrap</b>
+</td>
+
+</tr>
+</table>
+
+**✨ UI Libraries**
+
+- Framer Motion
+- Responsive Design
+- Glassmorphism
+- Modern UI/UX
 
 ---
 
 ## ⚙️ Backend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<table>
+<tr>
 
-**Icons Used:** Node.js • Express.js
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br><b>Node.js</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br><b>Express.js</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=prisma" width="55"/><br><b>Prisma</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br><b>Mongoose</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🗄️ Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+<table>
+<tr>
 
-**Icons Used:** MongoDB • MySQL • PostgreSQL
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br><b>MongoDB</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><b>MySQL</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br><b>PostgreSQL</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠 Frameworks & Libraries
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>React</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br><b>Next.js</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br><b>Tailwind</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><b>Bootstrap</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br><b>Express</b>
+</td>
+
+</tr>
+</table>
+
+**Also Experienced With**
+
+- Framer Motion
+- REST APIs
+- JWT Authentication
+- Better Auth
+
+---
+
+## 🤖 AI & APIs
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="55"/><br><b>OpenAI API</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="55"/><br><b>Gemini API</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="55"/><br><b>Cloudinary</b>
+</td>
+
+</tr>
+</table>
+
+**Experience With**
+
+- Prompt Engineering
+- AI Image Generation
+- AI Website Generation
+- AI Integration
+- RESTful AI APIs
+
+---
+
+## ☁️ Deployment & Cloud
+
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br><b>Vercel</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=netlify" width="55"/><br><b>Netlify</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=render" width="55"/><br><b>Render</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br><b>Neon DB</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🧰 Developer Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<table>
+<tr>
 
-**Icons Used:** Git • GitHub • VS Code • Postman
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><b>Postman</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -151,14 +350,6 @@ Full Stack Developer • Software Engineer • Problem Solver
 ✔ AI Integration
 ✔ Clean Architecture
 ```
-
----
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham123-k&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
