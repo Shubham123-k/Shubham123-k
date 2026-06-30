@@ -1,89 +1,145 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ============================ HEADER ============================ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:1f4f80,100:113f67&height=200&section=header&text=Shubham%20K&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:1E3A8A,60:2563EB,100:38BDF8&text=Shubham%20Bind&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- ======================= TYPING EFFECT ======================= -->
+<h1 align="center">Hi 👋, I'm Shubham Bind</h1>
+
+<h3 align="center">
+Full Stack Developer • Software Engineer • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00d1ff&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B;React.js+%7C+Next.js+%7C+Node.js;MongoDB+%7C+MySQL;Consistency+%3E+Motivation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Consistency+%3E+Motivation"/>
 </p>
 
 ---
 
-# 👋 About Me
+# 💫 About Me
 
-Full Stack Developer focused on building scalable and performance-driven applications.
+🚀 Passionate Full Stack Developer focused on building scalable, secure, and high-performance web applications.
 
-I believe in clean architecture, strong fundamentals, and continuous improvement.
+💡 I enjoy transforming ideas into real-world products with clean architecture and intuitive user experiences.
 
-⚡ Discipline > Motivation  
-🚀 Growth Mindset  
-🎯 Long-Term Mastery  
+🎯 Currently improving my skills in
+
+- Full Stack Development
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- AI Integration
+
+---
+
+# ⚡ Quick Facts
+
+- 🌱 Currently learning **Advanced Backend & System Design**
+- 💻 Love building Full Stack Projects
+- ⚡ Strong believer in Clean Code
+- 🚀 Always exploring new technologies
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-bind-53305432b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/ShubhamK69/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/shubhamk1z07">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/shubhamkbind69">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/shubham-bind-53305432b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shubham123-k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/ShubhamK69/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/shubhamk1z07/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/shubhamkbind69">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🛠️ Tech Stack
-
-## 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-## 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-## ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-## 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-# 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham123-k&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,git,github,vscode,postman&perline=10"/>
+
 </p>
 
 ---
 
-# 🔥 Contribution Activity
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🚀 **Webro AI** | AI-powered website generator capable of creating modern websites using Generative AI. | React, Node.js, Express, PostgreSQL, Prisma, AI |
+| 🛒 **SwiftCart** | Multi-vendor e-commerce platform with AI-powered shopping experience and secure authentication. | Next.js, PostgreSQL, Prisma, Node.js |
+| 🎨 **ThumbnailX** | AI-powered thumbnail generator with authentication and cloud image management. | React, Node.js, MongoDB, Cloudinary |
+| 🔐 **PassOP** | Secure password manager with CRUD operations and encrypted storage. | React, Node.js, MongoDB |
+---
+
+# 🌱 Currently Learning
+
+```text
+✔ Advanced Backend
+✔ System Design
+✔ Database Optimization
+✔ AI Integration
+✔ Clean Architecture
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham123-k&theme=tokyo-night&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham123-k&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham123-k&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham123-k&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shubham123-k&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
@@ -91,19 +147,77 @@ I believe in clean architecture, strong fundamentals, and continuous improvement
 # 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ShubhamK69?theme=dark&font=Fira+Code&ext=contest"/>
+
+<img src="https://leetcard.jacoblin.cool/ShubhamK69?theme=dark&font=Fira+Code&ext=contest"/>
+
 </p>
 
 ---
 
-# 👁️ Profile Visitors
+# 📌 Developer Philosophy
+
+```cpp
+while (!success)
+{
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+---
+
+# 💭 Quote
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham123-k&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+> **"First, solve the problem. Then, write the code."**
+
+**— John Johnson**
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shubham123-k&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+I'm always open to collaborating on exciting projects, discussing software development, and learning from the developer community.
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shubham-bind-53305432b/">
+<img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:113f67,50:1f4f80,100:0a0f2c&height=100&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:0F172A"/>
+
 </p>
