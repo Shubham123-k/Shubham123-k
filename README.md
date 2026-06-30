@@ -72,11 +72,63 @@ Full Stack Developer • Software Engineer • Problem Solver
 
 # 🛠 Tech Stack
 
-<p align="center">
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,git,github,vscode,postman&perline=10"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
 </p>
+
+**Icons Used:** Java • Python • C • C++ • JavaScript
+
+---
+
+## 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+**Icons Used:** HTML5 • CSS3 • React • Next.js • Tailwind CSS
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Icons Used:** Node.js • Express.js
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+**Icons Used:** MongoDB • MySQL • PostgreSQL
+
+---
+
+## 🧰 Developer Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**Icons Used:** Git • GitHub • VS Code • Postman
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+**Learning:** Docker • System Design • Advanced Backend Development
 
 ---
 
@@ -101,10 +153,6 @@ Full Stack Developer • Software Engineer • Problem Solver
 ```
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -134,9 +182,6 @@ Full Stack Developer • Software Engineer • Problem Solver
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Shubham123-k&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
