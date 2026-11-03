@@ -379,11 +379,23 @@ A password management application designed to securely organize and manage crede
 React • Node.js • MongoDB
 
 
-🏆 GitHub Achievements
+<!-- ====================================================== -->
+
+<!--                  GITHUB ANALYTICS                      -->
+
+<!-- ====================================================== -->
+
+📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham123-k&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham123-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham123-k&theme=tokyonight&hide_border=true"/>
 
 </div>
 
