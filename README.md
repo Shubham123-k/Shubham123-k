@@ -378,6 +378,15 @@ A password management application designed to securely organize and manage crede
 
 React • Node.js • MongoDB
 
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shubham123-k&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
+
 <!-- ====================================================== -->
 <!--                  CODING PROFILES                       -->
 <!-- ====================================================== -->
