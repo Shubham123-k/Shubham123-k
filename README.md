@@ -1,177 +1,149 @@
 <!-- ====================================================== -->
-<!--                    ANIMATED HEADER                     -->
+<!--                        HEADER                          -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,25:172554,55:1D4ED8,100:06B6D4&text=SHUBHAM%20BIND&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20Ideas%20Into%20Intelligent%20Solutions&descSize=16&descAlignY=58"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=240&color=0:020617,30:172554,65:1D4ED8,100:06B6D4&text=SHUBHAM%20BIND&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20Ideas%20Into%20Intelligent%20Solutions&descSize=17&descAlignY=58" alt="Shubham Bind banner"/>
 
 <a href="https://github.com/Shubham123-k">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%26+LLM+Application+Developer;RAG+%7C+AI+Agents+%7C+LangGraph;Java+%7C+JavaScript+%7C+Python;Building+Scalable+%26+Intelligent+Applications" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shubham123-k&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Shubham123-k&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Shubham123-k?label=Followers&style=for-the-badge&color=0891b2" alt="Followers"/>
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge" alt="Open to opportunities"/>
 
-<img src="https://img.shields.io/github/followers/Shubham123-k?label=Followers&style=for-the-badge&color=0891b2"/>
+<br/><br/>
+
+<!-- QUICK NAVIGATION -->
+<a href="#about"><img src="https://img.shields.io/badge/About-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="About"/></a>
+<a href="#expertise"><img src="https://img.shields.io/badge/Expertise-0F172A?style=flat-square&logo=target&logoColor=38BDF8" alt="Expertise"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0F172A?style=flat-square&logo=stackblitz&logoColor=38BDF8" alt="Tech Stack"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-0F172A?style=flat-square&logo=rocket&logoColor=38BDF8" alt="Projects"/></a>
+<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0F172A?style=flat-square&logo=githubactions&logoColor=38BDF8" alt="Analytics"/></a>
+<a href="#dsa"><img src="https://img.shields.io/badge/DSA-0F172A?style=flat-square&logo=leetcode&logoColor=38BDF8" alt="DSA"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="Connect"/></a>
 
 </div>
 
----
+<br/>
 
 <!-- ====================================================== -->
-<!--                       ABOUT ME                         -->
+<!--                         ABOUT                          -->
 <!-- ====================================================== -->
 
-# 👨‍💻 About Me
+<a id="about"></a>
 
-Hey! I'm **Shubham Bind**, a Computer Science Engineering student, Full Stack Developer, and AI enthusiast passionate about engineering intelligent and scalable software solutions.
+## 👋 &nbsp;Hello, World — I'm Shubham
 
-I enjoy working at the intersection of **Software Engineering, Artificial Intelligence, and Problem Solving**.
+> I don't just build applications — I study the problem, design the architecture, and ship solutions that survive the real world.
 
-I don't just build applications — I focus on understanding problems, designing architectures, and developing solutions that can work in real-world environments.
+I'm a **Computer Science Engineering student**, **Full Stack Developer** and **AI engineer-in-the-making**, working at the intersection of **software engineering, artificial intelligence and problem solving**.
 
-- 🎓 B.Tech Computer Science & Engineering
-- 💻 Full Stack Developer specializing in modern web technologies.
-- 🤖 Exploring LLMs, RAG pipelines, AI Agents and Generative AI.
-- 🧠 Practicing Data Structures & Algorithms.
-- 🔬 DRDO Internship Project: Offline AI-Based Defence Vulnerability Assessment and Knowledge Assistant.
-- 🚀 Building AI-powered products and developer tools.
-- 🎯 Aspiring Software Engineer / AI Engineer.
+```ts
+const shubham = {
+  name:         "Shubham Bind",
+  role:         ["Full Stack Developer", "AI & LLM Application Developer"],
+  education:    "B.Tech — Computer Science & Engineering",
+  internship:   "DRDO (ARDE) — Offline AI Vulnerability Assessment & Knowledge Assistant",
+  languages:    ["Java", "JavaScript", "Python", "C++"],
+  building:     ["RAG Systems", "AI Agents", "Production-ready Web Apps"],
+  practicing:   "Data Structures & Algorithms, daily",
+  lookingFor:   "Software Engineer / AI Engineer opportunities",
+  motto:        "Think Deeply. Build Intelligently. Engineer What's Next.",
+};
+```
 
 <br/>
 
 <div align="center">
 
-### "Think Deeply. Build Intelligently. Engineer What's Next."
+| 🎓 **Education** | 🔬 **Internship** | 🤖 **Focus** | 🚀 **Projects** |
+|:---:|:---:|:---:|:---:|
+| B.Tech CSE | DRDO — ARDE | LLMs · RAG · Agents | 6 featured builds |
 
 </div>
 
----
+<br/>
 
 <!-- ====================================================== -->
-<!--                    WHAT I DO                           -->
+<!--                       EXPERTISE                        -->
 <!-- ====================================================== -->
 
-# ⚡ What I Do
+<a id="expertise"></a>
+
+## ⚡ &nbsp;What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Full Stack Development
+#### 🌐 Full Stack Development
+`Responsive UI/UX` `REST APIs` `Auth & Authorization` `Database Design` `Scalable Architecture`
 
-- Modern frontend architecture
-- Responsive UI/UX development
-- REST API development
-- Authentication & authorization
-- Database design and optimization
-- Scalable application architecture
+Modern frontend architecture paired with robust, well-modelled backends.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Engineering
+#### 🤖 AI Engineering
+`RAG` `LLMs` `AI Agents` `Embeddings` `Vector DBs` `Prompt Engineering` `Offline AI`
 
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- AI Agents and agentic workflows
-- Semantic search and embeddings
-- Vector databases
-- Prompt engineering
-- Local and offline AI systems
+Agentic workflows, semantic search and local-first AI systems.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Problem Solving
+#### 🧠 Problem Solving
+`DSA` `OOP` `Algorithm Optimization` `Competitive Programming`
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Algorithm optimization
-- Competitive programming
-- Logical thinking
+Logical thinking and efficient solutions, practiced consistently.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Software Engineering
+#### ⚙️ Software Engineering
+`Backend` `System Architecture` `Git Workflows` `API Integrations` `App Security` `Deployment`
 
-- Backend engineering
-- System architecture
-- Git & GitHub workflows
-- API integrations
-- Application security
-- Deployment and hosting
+Clean, secure and maintainable software from commit to production.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 <!-- ====================================================== -->
-<!--                    TECH STACK                          -->
+<!--                       TECH STACK                       -->
 <!-- ====================================================== -->
 
-# 🛠️ Technology Arsenal
+<a id="stack"></a>
+
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-*The technologies and tools I use to turn ideas into working software.*
+| | |
+|:---|:---|
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts&perline=8" alt="Languages"/> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux,figma&perline=8" alt="Frontend"/> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,prisma&perline=8" alt="Backend"/> |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase&perline=8" alt="Databases"/> |
+| **🧠 ML / AI** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" alt="AI"/> |
+| **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=vercel,netlify,render,git,github,linux,bash&perline=8" alt="DevOps"/> |
+| **🔧 Dev Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman,idea,vite,npm&perline=8" alt="Tools"/> |
 
 </div>
 
-## 💻 Programming Languages
+<details>
+<summary><b>🤖 &nbsp;Generative AI & LLM Toolkit</b> &nbsp;<i>(click to expand)</i></summary>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts&perline=8"/>
-</p>
-
-## 🎨 Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux,figma&perline=8"/>
-</p>
-
-## ⚙️ Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=8"/>
-</p>
-
-**Additional Backend Technologies**
-
-- RESTful APIs
-- JWT Authentication
-- OAuth 2.0
-- Prisma ORM
-- Mongoose
-- Better Auth
-- Role-Based Access Control (RBAC)
-
-## 🗄️ Databases & Storage
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase&perline=8"/>
-</p>
-
-**Database Concepts**
-
-- Relational & NoSQL Databases
-- Database Modeling
-- Query Optimization
-- Indexing
-- Vector Search
-- Semantic Retrieval
-
-## 🤖 Artificial Intelligence & Generative AI
+<br/>
 
 <div align="center">
 
@@ -182,277 +154,290 @@ I don't just build applications — I focus on understanding problems, designing
 <img src="https://img.shields.io/badge/Agentic%20AI-0F766E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-DB2777?style=for-the-badge"/>
 
-</div>
+<br/>
 
-### AI Frameworks & Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-### AI Engineering Concepts
-
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Embedding Models
-- Vector Databases
-- Semantic Search
-- Document Chunking & Retrieval
-- Context Engineering
-- AI Agent Orchestration
-- Multi-Agent Systems
-- Local LLM Deployment
-- Offline AI Applications
-- Speech Recognition with Whisper
-
-### AI Models & APIs
-
-- Ollama
-- Gemini API
-- OpenAI API
-- Hugging Face
-- Whisper / faster-whisper
-
-## ☁️ Cloud, Deployment & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render,git,github,linux,bash&perline=8"/>
-</p>
-
-**Platforms & Services**
-
-- Vercel
-- Render
-- Neon PostgreSQL
-- MongoDB Atlas
-- Cloudinary
-- GitHub Actions
-
-## 🔧 Developer Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,postman,git,github,idea,vite,npm&perline=8"/>
-</p>
-
----
-
-<!-- ====================================================== -->
-<!--                  FEATURED PROJECTS                      -->
-<!-- ====================================================== -->
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-*Engineering solutions, exploring ideas, and building products.*
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whisper-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
-## 🧠 01. DevAgent — AI Software Engineering Agent
+<br/>
 
-<img src="https://img.shields.io/badge/AI%20Powered-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=flat-square"/>
+**Concepts:** `Embedding Models` `Vector Databases` `Semantic Search` `Document Chunking & Retrieval` `Context Engineering` `Agent Orchestration` `Multi-Agent Systems` `Local LLM Deployment` `Offline AI Apps` `Speech Recognition (faster-whisper)`
 
-An AI-powered software engineering assistant designed to understand GitHub repositories and assist developers throughout the software development lifecycle.
+</details>
 
-**Core Capabilities**
+<details>
+<summary><b>⚙️ &nbsp;Backend, Database & Platform Details</b> &nbsp;<i>(click to expand)</i></summary>
 
-- GitHub repository integration
-- Repository understanding and analysis
-- AI-powered issue analysis
-- Automated code generation and bug fixing
-- Test generation
-- AI code review
-- Multi-agent orchestration
+<br/>
 
-**Technology Stack**
+**Backend:** `RESTful APIs` `JWT Authentication` `OAuth 2.0` `Prisma ORM` `Mongoose` `Better Auth` `RBAC`
 
-React • FastAPI • Python • LangGraph • LLMs • GitHub OAuth
+**Databases:** `Relational & NoSQL` `Data Modeling` `Query Optimization` `Indexing` `Vector Search` `Semantic Retrieval`
 
----
+**Platforms:** `Vercel` `Render` `Neon PostgreSQL` `MongoDB Atlas` `Cloudinary` `GitHub Actions`
 
-## 🛡️ 02. Offline AI-Based Defence Vulnerability Assessment & Knowledge Assistant — DRDO
+</details>
 
-<img src="https://img.shields.io/badge/Research%20%26%20Development-DC2626?style=flat-square"/>
+<br/>
+
+<!-- ====================================================== -->
+<!--                   FEATURED PROJECTS                    -->
+<!-- ====================================================== -->
+
+<a id="projects"></a>
+
+## 🚀 &nbsp;Featured Projects
+
+<!-- TIP: Add your repo/demo links under each project, e.g. [🔗 Repository](https://github.com/Shubham123-k/REPO-NAME) -->
+
+### 🛡️ Flagship — Offline AI Defence Vulnerability Assessment & Knowledge Assistant
+
+<img src="https://img.shields.io/badge/DRDO%20%E2%80%94%20ARDE-1D4ED8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Offline%20AI-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/DRDO-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research%20%26%20Development-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Secure%20by%20Design-7C3AED?style=flat-square"/>
 
-An offline-first AI-powered knowledge assistant designed for defence vulnerability assessment and secure document intelligence.
+An **offline-first AI knowledge assistant** built during my internship at the **Defence Research and Development Organisation (DRDO) — ARDE**, designed for defence vulnerability assessment and secure document intelligence. It combines **local LLMs**, **Retrieval-Augmented Generation**, **document-level access control** and **CVE analysis** — with zero dependency on the cloud.
 
-The system combines Local LLMs, Retrieval-Augmented Generation (RAG), document-level access control, and vulnerability assessment capabilities.
+```mermaid
+flowchart LR
+    U["👤 User<br/>(Text or Voice)"] -- voice --> W["🎙️ faster-whisper"]
+    W --> API
+    U -- text --> API["⚡ FastAPI<br/>Auth + RBAC"]
+    API --> R["🔎 Retriever"]
+    D["📄 Documents<br/>PyMuPDF + Chunking"] --> E["🧬 nomic-embed-text"]
+    E --> DB[("🗄️ ChromaDB")]
+    R <--> DB
+    R --> L["🧠 Ollama<br/>Gemma 4 26B"]
+    L --> O["✅ Answer"]
+    API -.-> A["📝 Audit Log"]
+```
 
-**Core Capabilities**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Fully local and offline AI inference
-- RAG-based document question answering
-- Document ingestion and semantic retrieval
+**🧠 Intelligence**
+- Fully local & offline LLM inference
+- RAG-based document Q&A
+- Document ingestion & semantic retrieval
 - Defence vulnerability assessment
-- CVE report analysis and explanation
+- CVE report analysis & explanation
+- Offline voice interaction
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Security**
 - Role-based access control
-- Public, Confidential and Secret classifications
+- Public / Confidential / Secret classifications
 - Encrypted document storage
 - Document-level permissions
 - Audit logging
-- Restricted document downloads
-- Admin-controlled user provisioning
-- Offline voice interaction using faster-whisper
+- Restricted downloads & admin-controlled provisioning
 
-**Technology Stack**
+</td>
+</tr>
+</table>
 
-Python • FastAPI • Ollama • Gemma 4 26B • LangChain • RAG • ChromaDB • nomic-embed-text • faster-whisper • PyMuPDF • Python Security Libraries
+**Stack:** `Python` `FastAPI` `Ollama` `Gemma 4 26B` `LangChain` `RAG` `ChromaDB` `nomic-embed-text` `faster-whisper` `PyMuPDF` `Python Security Libraries`
 
-**Internship:** Defence Research and Development Organisation (DRDO) — ARDE
-
----
-
-## 🌐 03. Webro AI — AI Website Generator
-
-An AI-powered website generation platform that transforms user prompts into modern website experiences.
-
-**Core Capabilities**
-
-- AI-powered website generation
-- Prompt-based website creation
-- Modern responsive interfaces
-- Backend integration
-- Database-powered application functionality
-
-**Technology Stack**
-
-React • Node.js • Express.js • PostgreSQL • Prisma • Generative AI
+<br/>
 
 ---
 
-## 🛒 04. SwiftCart — Smart E-Commerce Platform
+### 🧠 DevAgent — AI Software Engineering Agent
 
-A modern e-commerce application designed to deliver a smooth shopping experience with scalable backend architecture.
+<img src="https://img.shields.io/badge/AI%20Powered-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-0891B2?style=flat-square"/>
 
-**Core Capabilities**
+An AI assistant that **understands GitHub repositories** and supports developers across the whole software development lifecycle.
 
-- Product management
-- Shopping cart
-- User authentication
-- Database integration
-- AI-powered shopping experience
+```mermaid
+flowchart LR
+    G["🐙 GitHub Repo<br/>(OAuth)"] --> A["🔍 Repo Analyzer"]
+    A --> O{"🧭 LangGraph<br/>Orchestrator"}
+    O --> I["🐛 Issue Analysis"]
+    O --> C["💻 Code Gen & Bug Fix"]
+    O --> T["🧪 Test Generation"]
+    O --> R["👀 AI Code Review"]
+```
 
-**Technology Stack**
+**Capabilities:** `Repository understanding` `Issue analysis` `Code generation & bug fixing` `Test generation` `AI code review` `Multi-agent orchestration`
 
-Next.js • PostgreSQL • Prisma • Node.js
+**Stack:** `React` `FastAPI` `Python` `LangGraph` `LLMs` `GitHub OAuth`
 
----
-
-## 🎨 05. ThumbnailX — AI Thumbnail Generator
-
-An AI-powered thumbnail generation platform designed to help creators generate visually engaging thumbnails.
-
-**Core Capabilities**
-
-- AI-powered thumbnail generation
-- Image management
-- Cloud image storage
-- User authentication
-
-**Technology Stack**
-
-React • Node.js • MongoDB • Cloudinary • AI APIs
+<br/>
 
 ---
 
-## 🔐 06. PassOP — Password Manager
+### 📦 More Builds
 
-A password management application designed to securely organize and manage credentials.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Core Capabilities**
+#### 🌐 Webro AI
+**AI Website Generator**
 
-- Password management
-- CRUD operations
-- Credential organization
-- Secure application workflow
+Turns plain-English prompts into modern, responsive website experiences with full backend integration.
 
-**Technology Stack**
+`AI generation` `Prompt-to-site` `Responsive UI` `DB-powered`
 
-React • Node.js • MongoDB
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 
+</td>
+<td width="50%" valign="top">
+
+#### 🛒 SwiftCart
+**Smart E-Commerce Platform**
+
+A modern storefront with a scalable backend and an AI-assisted shopping experience.
+
+`Products` `Cart` `Authentication` `Database integration` `AI shopping`
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 ThumbnailX
+**AI Thumbnail Generator**
+
+Helps creators generate eye-catching thumbnails, with cloud image storage and user accounts.
+
+`AI generation` `Image management` `Cloud storage` `Authentication`
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔐 PassOP
+**Password Manager**
+
+A clean app to securely organize and manage credentials with a simple, reliable CRUD workflow.
+
+`Password management` `CRUD` `Credential organization`
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ====================================================== -->
-
-<!--                  GITHUB ANALYTICS                      -->
-
+<!--                   GITHUB ANALYTICS                     -->
 <!-- ====================================================== -->
 
-📊 GitHub Analytics
+<a id="analytics"></a>
+
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham123-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=12" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham123-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham123-k&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham123-k&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak stats"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham123-k&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shubham123-k&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
 
 </div>
 
+<br/>
+
 <!-- ====================================================== -->
-<!--                  CODING PROFILES                       -->
+<!--                  COMPETITIVE PROGRAMMING               -->
 <!-- ====================================================== -->
 
-# 🧩 Competitive Programming
+<a id="dsa"></a>
+
+## 🧩 &nbsp;Competitive Programming
 
 <div align="center">
 
 <a href="https://leetcode.com/u/ShubhamK69/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
 <a href="https://www.geeksforgeeks.org/profile/shubhamk1z07/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-
 <a href="https://www.hackerrank.com/profile/shubhamkbind69">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/ShubhamK69?theme=dark&font=Fira+Code&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/ShubhamK69?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode card"/>
 
 </div>
 
----
+<br/>
 
 <!-- ====================================================== -->
-<!--                    CURRENT FOCUS                       -->
+<!--                     CURRENT FOCUS                      -->
 <!-- ====================================================== -->
 
-# 🎯 Current Focus
-
-```text
-01. Advanced Data Structures & Algorithms
-02. Large Language Models & RAG Architectures
-03. AI Agents & Multi-Agent Systems
-04. Backend Engineering & System Design
-05. Database Optimization
-06. Building Production-Ready Applications
-```
-
----
-
-<!-- ====================================================== -->
-<!--                  DEVELOPER PHILOSOPHY                   -->
-<!-- ====================================================== -->
-
-# 💡 My Developer Philosophy
+## 🎯 &nbsp;Current Focus
 
 <div align="center">
 
-### I believe great software comes from curiosity, consistency, and continuous improvement.
+| # | Focus Area | Status |
+|:-:|:--|:-:|
+| 01 | Advanced Data Structures & Algorithms | ![](https://img.shields.io/badge/-Grinding-F59E0B?style=flat-square) |
+| 02 | Large Language Models & RAG Architectures | ![](https://img.shields.io/badge/-Building-2563EB?style=flat-square) |
+| 03 | AI Agents & Multi-Agent Systems | ![](https://img.shields.io/badge/-Building-2563EB?style=flat-square) |
+| 04 | Backend Engineering & System Design | ![](https://img.shields.io/badge/-Learning-7C3AED?style=flat-square) |
+| 05 | Database Optimization | ![](https://img.shields.io/badge/-Learning-7C3AED?style=flat-square) |
+| 06 | Production-Ready Applications | ![](https://img.shields.io/badge/-Shipping-22C55E?style=flat-square) |
+
+</div>
+
+<br/>
+
+<!-- ====================================================== -->
+<!--                       PHILOSOPHY                       -->
+<!-- ====================================================== -->
+
+## 💡 &nbsp;Developer Philosophy
+
+<div align="center">
+
+*Great software comes from curiosity, consistency and continuous improvement.*
 
 </div>
 
@@ -462,57 +447,54 @@ public class Developer {
     public static void main(String[] args) {
 
         while (true) {
-
             learn();
             build();
             solveProblems();
             improve();
-
         }
     }
 }
 ```
 
----
+<br/>
 
 <!-- ====================================================== -->
-<!--                    CONNECT WITH ME                     -->
+<!--                        CONNECT                         -->
 <!-- ====================================================== -->
 
-# 🌐 Let's Connect
+<a id="connect"></a>
+
+## 🌐 &nbsp;Let's Connect
 
 <div align="center">
 
-I'm always interested in connecting with developers, collaborating on innovative projects, exploring AI technologies, and discussing software engineering.
+I'm always up for connecting with developers, collaborating on innovative projects, exploring AI and talking software engineering.
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/shubham-bind-53305432b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Shubham123-k">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/ShubhamK69/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
 <a href="https://www.geeksforgeeks.org/profile/shubhamk1z07/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for stopping by!
 
 **Code. Create. Innovate. Repeat.**
 
 </div>
 
 <!-- ====================================================== -->
-<!--                    FOOTER                               -->
+<!--                        FOOTER                          -->
 <!-- ====================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:1D4ED8,100:020617"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,50:1D4ED8,100:020617" alt="footer"/>
