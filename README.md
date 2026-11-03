@@ -378,48 +378,6 @@ A password management application designed to securely organize and manage crede
 
 React • Node.js • MongoDB
 
----
-
-<!-- ====================================================== -->
-<!--                  GITHUB ANALYTICS                      -->
-<!-- ====================================================== -->
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham123-k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham123-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham123-k&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham123-k&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham123-k&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
 <!-- ====================================================== -->
 <!--                  CODING PROFILES                       -->
 <!-- ====================================================== -->
