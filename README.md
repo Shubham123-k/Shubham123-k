@@ -1,459 +1,156 @@
-<!-- ============================ HEADER ============================ -->
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:1E3A8A,60:2563EB,100:38BDF8&text=Shubham%20Bind&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Shubham Bind</h1>
-
-<h3 align="center">
-Full Stack Developer • Software Engineer • Problem Solver
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Consistency+%3E+Motivation"/>
-</p>
-
----
-
-# 💫 About Me
-
-🚀 Passionate Full Stack Developer focused on building scalable, secure, and high-performance web applications.
-
-💡 I enjoy transforming ideas into real-world products with clean architecture and intuitive user experiences.
-
-🎯 Currently improving my skills in
-
-- Full Stack Development
-- Data Structures & Algorithms
-- System Design
-- Backend Development
-- AI Integration
-
----
-
-# ⚡ Quick Facts
-
-- 🌱 Currently learning **Advanced Backend & System Design**
-- 💻 Love building Full Stack Projects
-- ⚡ Strong believer in Clean Code
-- 🚀 Always exploring new technologies
-- 🎯 Goal: Become a Software Engineer at a Product-Based Company
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shubham-bind-53305432b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shubham123-k">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/ShubhamK69/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/shubhamk1z07/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/shubhamkbind69">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🛠 Tech Arsenal
+<!--
+  SHUBHAM BIND — GITHUB PROFILE README
+  Profile repository: Shubham123-k/Shubham123-k
+  Motion is delivered through hosted SVGs and the contribution-snake GitHub Action.
+-->
 
 <div align="center">
 
-> *Technologies I use to transform ideas into scalable, modern, and user-centric applications.*
+<!-- Animated hero banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B1A,25:101D45,55:155EAA,100:22D3EE&text=SHUBHAM%20BIND&fontSize=58&fontColor=F8FAFC&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20ENTHUSIAST&descAlignY=59&descSize=14" alt="Shubham Bind — Full Stack Developer" />
+
+<img width="100%" src="./assets/terminal-banner.svg" alt="Animated terminal — turning ideas into working products" />
+
+<p>
+  <a href="https://shubham-k-bind.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shubham-bind-53305432b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Shubham123-k"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Shubham123-k&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 💻 Languages
+## `whoami` — A little about me
+
+Hey! I'm **Shubham Bind**, a Computer Science and Engineering student who enjoys building practical software — from polished web experiences to AI-powered developer tools.
+
+I like working across the stack, understanding how systems fit together, and turning a rough idea into something people can actually use. Outside project work, I'm sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+- 🎓 **Background:** B.Tech — Computer Science & Engineering
+- 💻 **Core interests:** Full-stack development, backend engineering, AI integration and problem solving
+- 🧠 **Currently exploring:** System design, scalable APIs, AI agents and Retrieval-Augmented Generation (RAG)
+- ⚡ **Working style:** Build with purpose, keep the code readable, and improve through iteration
+- 🏸 **Beyond code:** Badminton, sports and gaming
+
+## ⚙️ Current build
 
 <table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br><b>Java</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><b>C++</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=ts" width="55"/><br><b>TypeScript</b>
-</td>
-
-</tr>
+  <tr>
+    <td width="72" align="center"><img src="https://img.shields.io/badge/AI-Agents-2563EB?style=for-the-badge" alt="AI agents" /></td>
+    <td>
+      <strong>DevAgent — AI Software Engineering Agent</strong><br />
+      Exploring an agentic development workflow that can understand codebases, analyze issues, assist with code changes, generate tests and support code reviews.
+      <br /><sub>Focus areas: repository understanding · agent orchestration · code generation · testing · review workflows</sub>
+    </td>
+  </tr>
 </table>
 
----
+## 🧩 Selected projects
 
-## 🎨 Frontend Development
+| Project | What it does | Built with |
+|:--|:--|:--|
+| **Webro AI** | AI-powered website generator for turning prompts and ideas into modern web experiences. | React · Node.js · Express · PostgreSQL · Prisma · AI APIs |
+| **SwiftCart** | Full-stack e-commerce experience with product discovery, shopping workflows and authentication. | Next.js · PostgreSQL · Prisma · Node.js |
+| **ThumbnailX** | AI-powered thumbnail creation with user authentication and cloud-based image management. | React · Node.js · MongoDB · Cloudinary |
+| **PassOP** | Password manager with account-based access and password management features. | React · Node.js · MongoDB |
 
-<table>
-<tr>
+> Explore more builds and updates on my <a href="https://github.com/Shubham123-k?tab=repositories">repositories page</a> and <a href="https://shubham-k-bind.vercel.app/">portfolio</a>.
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="55"/><br><b>HTML5</b>
-</td>
+## 🛠️ Tech stack
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="55"/><br><b>CSS3</b>
-</td>
+*Tools I use to design, build, connect and ship software.*
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>React</b>
-</td>
+<div align="center">
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br><b>Next.js</b>
-</td>
+**Languages**
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br><b>Tailwind CSS</b>
-</td>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&perline=6" alt="Java, Python, C, C++, JavaScript and TypeScript" />
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><b>Bootstrap</b>
-</td>
+**Frontend**
 
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6" alt="HTML, CSS, React, Next.js, Tailwind CSS and Bootstrap" />
 
-**✨ UI Libraries**
+**Backend, APIs & data**
 
-- Framer Motion
-- Responsive Design
-- Glassmorphism
-- Modern UI/UX
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,prisma&perline=7" alt="Node.js, Express, FastAPI, MongoDB, PostgreSQL, MySQL and Prisma" />
 
----
+**AI & developer tools**
 
-## ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=6" alt="Git, GitHub, VS Code, Postman, Vercel and Netlify" />
 
-<table>
-<tr>
+</div>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br><b>Node.js</b>
-</td>
+**Also working with:** REST APIs · JWT authentication · Cloudinary · Neon · Render · Ollama · LangChain · RAG concepts · Prompt engineering
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="55"/><br><b>Express.js</b>
-</td>
+## 📊 GitHub activity
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=prisma" width="55"/><br><b>Prisma</b>
-</td>
+<div align="center">
+  <a href="https://github.com/Shubham123-k">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=Shubham123-k&show_icons=true&hide_border=true&border_radius=14&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Shubham's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Shubham123-k">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shubham123-k&layout=compact&hide_border=true&border_radius=14&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
+  </a>
+</div>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br><b>Mongoose</b>
-</td>
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Shubham123-k&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub contribution streak" />
+</div>
 
-</tr>
-</table>
+## 🐍 Contribution trail
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham123-k/Shubham123-k/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham123-k/Shubham123-k/output/github-snake.svg" />
+    <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/Shubham123-k/Shubham123-k/output/github-snake.svg" />
+  </picture>
+</div>
 
-## 🗄️ Databases
+## 🧠 Problem-solving profiles
 
-<table>
-<tr>
+<div align="center">
+  <a href="https://leetcode.com/u/ShubhamK69/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/shubhamk1z07/"><img src="https://img.shields.io/badge/GeeksforGeeks-Learn%20%26%20Solve-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/profile/shubhamkbind69"><img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</div>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br><b>MongoDB</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><b>MySQL</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br><b>PostgreSQL</b>
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠 Frameworks & Libraries
-
-<table>
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>React</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br><b>Next.js</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br><b>Tailwind</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><b>Bootstrap</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="55"/><br><b>Express</b>
-</td>
-
-</tr>
-</table>
-
-**Also Experienced With**
-
-- Framer Motion
-- REST APIs
-- JWT Authentication
-- Better Auth
-
----
-
-## 🤖 AI & APIs
-
-<table>
-<tr>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/openai/ffffff" width="55"/><br><b>OpenAI API</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="55"/><br><b>Gemini API</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="55"/><br><b>Cloudinary</b>
-</td>
-
-</tr>
-</table>
-
-**Experience With**
-
-- Prompt Engineering
-- AI Image Generation
-- AI Website Generation
-- AI Integration
-- RESTful AI APIs
-
----
-
-## ☁️ Deployment & Cloud
-
-<table>
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br><b>Vercel</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=netlify" width="55"/><br><b>Netlify</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=render" width="55"/><br><b>Render</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br><b>Neon DB</b>
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧰 Developer Tools
-
-<table>
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><b>Postman</b>
-</td>
-
-</tr>
-</table>
-
----
-
-## 📚 Currently Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-**Learning:** Docker • System Design • Advanced Backend Development
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🚀 **Webro AI** | AI-powered website generator capable of creating modern websites using Generative AI. | React, Node.js, Express, PostgreSQL, Prisma, AI |
-| 🛒 **SwiftCart** | Multi-vendor e-commerce platform with AI-powered shopping experience and secure authentication. | Next.js, PostgreSQL, Prisma, Node.js |
-| 🎨 **ThumbnailX** | AI-powered thumbnail generator with authentication and cloud image management. | React, Node.js, MongoDB, Cloudinary |
-| 🔐 **PassOP** | Secure password manager with CRUD operations and encrypted storage. | React, Node.js, MongoDB |
----
-
-# 🌱 Currently Learning
+## 🎯 What I'm focused on
 
 ```text
-✔ Advanced Backend
-✔ System Design
-✔ Database Optimization
-✔ AI Integration
-✔ Clean Architecture
+[01] Strengthen DSA and problem-solving fundamentals
+[02] Build reliable full-stack applications
+[03] Design better APIs and backend architectures
+[04] Explore practical AI agents and RAG-powered workflows
+[05] Write cleaner code, test it, and keep shipping
 ```
 
----
+## 🤝 Let's build something useful
 
-# 🔥 GitHub Streak
+I'm open to collaborating on thoughtful software projects, developer tools and practical AI applications. Have an interesting idea? Let's connect.
 
-<p align="center">
+<div align="center">
+  <a href="https://www.linkedin.com/in/shubham-bind-53305432b/"><img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Shubham123-k?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham123-k&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+### `while (learning) { build(); improve(); repeat(); }`
 
----
+*Thanks for stopping by — keep creating things that matter.*
 
-# 📈 Contribution Graph
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,45:155EAA,100:080B1A" alt="Decorative blue wave footer" />
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham123-k&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham123-k&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🧠 Competitive Programming
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/ShubhamK69?theme=dark&font=Fira+Code&ext=contest"/>
-
-</p>
-
----
-
-# 📌 Developer Philosophy
-
-```cpp
-while (!success)
-{
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
-
----
-
-# 💭 Quote
-
-<p align="center">
-
-> **"First, solve the problem. Then, write the code."**
-
-**— John Johnson**
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shubham123-k&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-I'm always open to collaborating on exciting projects, discussing software development, and learning from the developer community.
-
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shubham-bind-53305432b/">
-<img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:0F172A"/>
-
-</p>
+<!--
+  Widget reliability notes:
+  - The hero banner and terminal animation are SVG assets; the capsule header is remotely generated.
+  - GitHub stats and streak cards are served by third-party services and may be rate-limited.
+  - The contribution snake is generated by .github/workflows/snake.yml and published to the output branch.
+  If a hosted card becomes unavailable, remove that card or self-host its generator.
+-->
